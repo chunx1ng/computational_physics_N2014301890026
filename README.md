@@ -3,7 +3,7 @@ homework of my computational physics course
 
 ## Homework list
 
-* [Exercise_03:All levels][3]
+*       [Exercise_03:All levels][3]
 * [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles][4]
 * [Exercise_05:Chapter 1 problem 1.6:Population growth][5]
 * [Exercise_06:Chapter 2 problem 2.9 & 2.10:The cannon][6]
@@ -17,7 +17,7 @@ homework of my computational physics course
 * [Exercise_14:Chapter 6 problem 6.15:The realistic string problem][14]
 * [Final Project:用轨道能量分析Krikwood Gap的缝宽][15]
 
-    [3]:
+    [3]: https://daringfireball.net/projects/markdown/syntax#link    
     [4]:
     [5]:
     [6]:
