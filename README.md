@@ -17,7 +17,7 @@ homework of my computational physics course
 * [Exercise_14:Chapter 6 problem 6.15:The realistic string problem][14]
 * [Final Project:用轨道能量分析Krikwood Gap的缝宽][15]
 
-    [3]:https://daringfireball.net/projects/markdown/syntax#link
+    [3]:
     [4]:
     [5]:
     [6]:
