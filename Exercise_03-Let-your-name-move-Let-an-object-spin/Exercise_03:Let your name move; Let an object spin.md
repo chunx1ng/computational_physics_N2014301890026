@@ -11,8 +11,8 @@
 
 ##让英文名字水平移动起来
 * [查看源代码](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_03-Let-your-name-move-Let-an-object-spin/ex03_1.py)
-* [查看图片]()
+* ![查看图片](http://a3.qpic.cn/psb?/V14dvOL90MQVdu/lRZghWBe0gAJRkidZXetbfeOQl3t89XUCR2AeWZeCAQ!/b/dK0AAAAAAAAA&bo=WwNTAQAAAAADByg!&rf=viewer_4)
 
 ##让一个图像旋转起来
 * [查看源代码]()
-* [查看图像]()
+* ![查看图像]()
