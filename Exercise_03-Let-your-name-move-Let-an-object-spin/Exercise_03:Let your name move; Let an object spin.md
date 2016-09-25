@@ -10,7 +10,7 @@
 ##背景介绍
 
 ##让英文名字水平移动起来
-* [查看源代码]()
+* [查看源代码](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_03-Let-your-name-move-Let-an-object-spin/ex03_1.py)
 * [查看图片]()
 
 ##让一个图像旋转起来
