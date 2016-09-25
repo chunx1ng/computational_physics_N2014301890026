@@ -5,7 +5,7 @@ homework of my computational physics course
 
 * [ ] [Exercise_01:Creat your own github(本周才加上去，为了格式好看)](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_01:Creat%20your%20own%20github.md)
 * [ ] [Exercise_02:Write an English name(本周从作业部落上面转移过来的)](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_02:Write%20an%20English%20name.md)
-* [ ] [Exercise_03:Let your name move; Let an object spin]
+* [ ] [Exercise_03:Let your name move; Let an object spin](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_03-Let-your-name-move-Let-an-object-spin/Exercise_03:Let%20your%20name%20move;%20Let%20an%20object%20spin.md)
 * [ ] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]
 * [ ] [Exercise_05:Chapter 1 problem 1.6:Population growth]
 * [ ] [Exercise_06:Chapter 2 problem 2.9 & 2.10:The cannon]
