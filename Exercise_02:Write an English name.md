@@ -11,7 +11,7 @@
 ## 背景介绍
 * 通过练习熟悉并掌握python的基本语法
 
-## 用python编写一个可以在屏幕上拼出英文名字的程序
+## 用python在屏幕上拼出一个英文名字
 * [查看源代码](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/ex01_1.py)
 
 ## 结论
