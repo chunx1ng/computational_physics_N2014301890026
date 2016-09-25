@@ -18,3 +18,6 @@
 * [查看源代码](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_03-Let-your-name-move-Let-an-object-spin/ex03_2.py)
 * ![查看图像](http://a2.qpic.cn/psb?/V14dvOL90MQVdu/tPr*fF*C4QJS*iTxusz4fmReLbTK8Myf4FkSR73bVQ0!/b/dLIAAAAAAAAA&bo=5wI2AQAAAAADB*A!&rf=viewer_4)
 * ![查看图像](http://a1.qpic.cn/psb?/V14dvOL90MQVdu/LdUpNQb0LsnD2PzB8KTsUjtkuiwx6URXg6JZIBx3jCk!/b/dPYAAAAAAAAA&bo=4gI5AQAAAAADAP0!&rf=viewer_4)
+
+##致谢
+* 由于水平所限，第一个问题我想不出更好的办法，所以借鉴了陈叶波同学的程序。在此表示感谢！
