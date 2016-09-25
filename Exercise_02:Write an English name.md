@@ -20,5 +20,4 @@
 ## 结论
  ![查看图片](http://a1.qpic.cn/psb?/V14dvOL90MQVdu/4sYKV*crqF179Zj13aixnHikLSS.g8oVTeZY2dES*4k!/b/dPYAAAAAAAAA&bo=lwIRAZcCEQEDCSw!&rf=viewer_4)
 
-## 致谢
-* 2014级陈叶波同学，只参考了这位同学的排版格式，代码是独立自己编辑的。
+
