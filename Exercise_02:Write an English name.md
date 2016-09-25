@@ -8,18 +8,6 @@
 ## 背景介绍
 * 通过练习熟悉并掌握python的基本语法
 ## 用python编写一个可以在屏幕上拼出英文名字的程序
-* 源代码:
-'print("                                                     ")
-print("     #                                               ")
-print("      #######                                        ")
-print("         #     #                                     ")
-print("        #         #   #      #   #     #     #       ")
-print("  #    #     #   # # # #    # # # #     #  ##        ")
-print("   ####     #   #   #   #  #   #   #     ###         ")
-print("                                          #          ")
-print("                                    #    #           ")
-print("                                     ####            ")
-print("                                                     ")
-print("                                                     ")'
+* [查看源代码](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/ex01_1.py)
 ## 结论
  ![查看图片](http://a1.qpic.cn/psb?/V14dvOL90MQVdu/4sYKV*crqF179Zj13aixnHikLSS.g8oVTeZY2dES*4k!/b/dPYAAAAAAAAA&bo=lwIRAZcCEQEDCSw!&rf=viewer_4)
