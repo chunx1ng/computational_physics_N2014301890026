@@ -15,7 +15,7 @@
 * 通过练习熟悉并掌握python的基本语法
 
 ## 用python在屏幕上拼出一个英文名字
-* [查看源代码](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/ex01_1.py)
+* [查看源代码](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/ex02_1.py)
 
 ## 结论
  ![查看图片](http://a1.qpic.cn/psb?/V14dvOL90MQVdu/4sYKV*crqF179Zj13aixnHikLSS.g8oVTeZY2dES*4k!/b/dPYAAAAAAAAA&bo=lwIRAZcCEQEDCSw!&rf=viewer_4)
