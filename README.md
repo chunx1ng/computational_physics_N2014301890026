@@ -3,8 +3,8 @@ homework of my computational physics course
 
 ## Homework list
 
-* [ ] [Exercise_01:Creat your own github](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_01:Creat%20your%20own%20github.md)
-* [ ] [Exercise_02:Write an English name](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_02:Write%20an%20English%20name.md)
+* [x] [Exercise_01:Creat your own github](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_01:Creat%20your%20own%20github.md)
+* [x] [Exercise_02:Write an English name](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_02:Write%20an%20English%20name.md)
 * [ ] [Exercise_03:Let your name move; Let an object spin]
 * [ ] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]
 * [ ] [Exercise_05:Chapter 1 problem 1.6:Population growth]
