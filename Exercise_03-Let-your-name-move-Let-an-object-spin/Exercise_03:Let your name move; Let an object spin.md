@@ -14,5 +14,6 @@
 * ![查看图片](http://a3.qpic.cn/psb?/V14dvOL90MQVdu/lRZghWBe0gAJRkidZXetbfeOQl3t89XUCR2AeWZeCAQ!/b/dK0AAAAAAAAA&bo=WwNTAQAAAAADByg!&rf=viewer_4)
 
 ##让一个图像旋转起来
-* [查看源代码]()
-* ![查看图像]()
+* [查看源代码](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_03-Let-your-name-move-Let-an-object-spin/ex03_2.py)
+* ![查看图像](http://a2.qpic.cn/psb?/V14dvOL90MQVdu/tPr*fF*C4QJS*iTxusz4fmReLbTK8Myf4FkSR73bVQ0!/b/dLIAAAAAAAAA&bo=5wI2AQAAAAADB*A!&rf=viewer_4)
+* ![查看图像](http://a1.qpic.cn/psb?/V14dvOL90MQVdu/LdUpNQb0LsnD2PzB8KTsUjtkuiwx6URXg6JZIBx3jCk!/b/dPYAAAAAAAAA&bo=4gI5AQAAAAADAP0!&rf=viewer_4)
