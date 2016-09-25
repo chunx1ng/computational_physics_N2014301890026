@@ -22,4 +22,4 @@ print("                                     ####            ")
 print("                                                     ")
 print("                                                     ")'
 ## 结论
- ![查看图片](http://img.hb.aicdn.com/2a57f40c556df756edac3181752853575ab4c6452947-qvQ0um_fw658)
+ ![查看图片](http://a1.qpic.cn/psb?/V14dvOL90MQVdu/4sYKV*crqF179Zj13aixnHikLSS.g8oVTeZY2dES*4k!/b/dPYAAAAAAAAA&bo=lwIRAZcCEQEDCSw!&rf=viewer_4)
