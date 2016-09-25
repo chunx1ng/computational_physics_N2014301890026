@@ -3,7 +3,7 @@ homework of my computational physics course
 
 ## Homework list
 
-* [Exercise_01:Write an English name](https://www.zybuluo.com/mdeditor#503126)
+* [Exercise_01:Write an English name](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_01:Write%20an%20English%20name)
 * [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]
 * [Exercise_05:Chapter 1 problem 1.6:Population growth]
 * [Exercise_06:Chapter 2 problem 2.9 & 2.10:The cannon]
