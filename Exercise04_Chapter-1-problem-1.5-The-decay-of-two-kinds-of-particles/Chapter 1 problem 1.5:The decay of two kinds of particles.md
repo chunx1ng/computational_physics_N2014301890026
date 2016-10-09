@@ -6,7 +6,7 @@
 ##摘要
 * 系统存在两个粒子，同时发生衰变，每种粒子衰变可变成另一种粒子。可以近似模拟做作粒子在A和B两种状态之间震荡，由以下微分方程描述：
 * ![查看图片](http://a2.qpic.cn/psb?/V14dvOL90MQVdu/f55dapEdpZfSS2D*V9trDIde5nMIPzex6x4JoxoWglI!/b/dAkBAAAAAAAA&bo=2wFbANsBWwADByI!&rf=viewer_4)
-* 尝试模拟当Na=100，Nb=0，t步长为1s时系统的演变情况
+* 尝试模拟当Na=100，Nb=0，t常数为1时系统的演变情况
 
 ##背景介绍
 * 采用欧拉法进行数值模拟
