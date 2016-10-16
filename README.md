@@ -7,7 +7,7 @@ homework of my computational physics course
 * [ ] [Exercise_02:Write an English name](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_02:Write%20an%20English%20name.md)
 * [ ] [Exercise_03:Let your name move; Let an object spin](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise_03-Let-your-name-move-Let-an-object-spin/Exercise_03:Let%20your%20name%20move;%20Let%20an%20object%20spin.md)
 * [ ] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise04_Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/Chapter%201%20problem%201.5:The%20decay%20of%20two%20kinds%20of%20particles.md)
-* [ ] [Exercise_05:Chapter 2 problem 2.9:The cannon]()
+* [ ] [Exercise_05:Chapter 2 problem 2.9:Projectile motion:The trajectory of a cannon]()
 * [ ] [Exercise_06:Chapter 2 problem 2.9 & 2.10:The cannon]
 * [ ] [Exercise_07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of the baseball]
 * [ ] [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator]
