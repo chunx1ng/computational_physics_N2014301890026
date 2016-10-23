@@ -9,10 +9,10 @@ class cannon:
         self.dt=footstep
         self.time=[0]
     def caculate(self):
-        v0x=self.vel*math.cos(self.ang[0])
-        v0y=self.vel*math.sin(self.ang[0])
-        vx=[v0x]
-        vy=[v0y]
+        vox=self.vel*math.cos(self.ang[0])
+        voy=self.vel*math.sin(self.ang[0])
+        vx=[vox]
+        vy=[voy]
         v=[self.vel]
         Bchum=4*10**(-5)
         g=9.8
@@ -22,40 +22,40 @@ class cannon:
         vely=0
         vel=0
         a=6.5*10**(-3)
-        T0=20+273.15
+        To=20+273.15
         alpha=2.5
-        while self.y[-1]>=0:
-            i=0
-            valuex=self.x[i]+vx[i]*self.dt
-            velx=vx[i]-(1-a*self.y[i]/T0)**alpha*Bchum*v[i]*vx[i]*self.dt
-            valuey=self.y[i]+vy[i]*self.dt
-            vely=vy[i]-g*self.dt-(1-a*self.y[i]/T0)**alpha*Bchum*v[i]*vy[i]*self.dt
-            self.x.append(valuex)
-            self.y.append(valuey)
-            vx.append(velx)
-            vy.append(vely)
-            vel=math.sqrt(velx**2+vely**2)
-            v.append(vel)
-            self.time.append(self.time[i]+self.dt)
-            i=i+1
-        yplus=self.y[i]+vy[i]*self.dt
-        r=-self.y[i]/yplus
-        yend=(self.y[i]+yplus*r)/(r+1)
-        return yend
+        for i in range(1000):
+            if self.y[i]>=0:            
+                valuex=self.x[i]+vx[i]*self.dt
+                velx=vx[i]-(1-a*self.y[i]/To)**alpha*Bchum*v[i]*vx[i]*self.dt
+                valuey=self.y[i]+vy[i]*self.dt
+                vely=vy[i]-g*self.dt-(1-a*self.y[i]/To)**alpha*Bchum*v[i]*vy[i]*self.dt
+                self.x.append(valuex)
+                self.y.append(valuey)
+                vx.append(velx)
+                vy.append(vely)
+                vel=math.sqrt(velx**2+vely**2)
+                v.append(vel)
+                self.time.append(self.time[i]+self.dt)
+            else:
+                break
     def show(self):
         pl.plot(self.x,self.y,'r')
         pl.title("The trajectory of the cannon shell")
         pl.xlabel("x")
         pl.ylabel("y")
-yvalue=[0]
-yendvalue=0
+xvalue=[0]
+xendvalue=0
 for j in range(89):
-    cann=cannon(700,(1+j)/180*math.pi,1000)
-    yendvalue=cann.caculate()
-    yvalue.append(yendvalue)
-ymax=max(yvalue)
-print ("最大的射程为",str(ymax))
-location=yvalue.index(ymax)
-print ("最佳的发射角为",str(location))
-cannonbest=cannon(700,location/180*math.pi,1000)
+    cann=cannon(700,math.radians(1+j),0.1)
+    cann.caculate()
+    r=-cann.y[-2]/cann.y[-1]
+    xendvalue=(cann.x[-2]+r*cann.x[-1])/(r+1)
+    xvalue.append(xendvalue)
+xmax=max(xvalue)
+print "最大的射程为",xmax
+location=xvalue.index(xmax)
+print "最佳的发射角为",location
+cannonbest=cannon(700,math.radians(location),0.1)
+cannonbest.caculate()
 cannonbest.show()
