@@ -73,4 +73,42 @@ else:
     cann=cannon(700,math.radians(minang),0.1)
     cann.caculate()
     cann.show()
+"""
+xvalue=[0]
+xendvalue=0
+for j in range(89):
+    cann=cannon(700,math.radians(1+j),0.1)
+    cann.caculate()
+    xendvalue=cann.x[-1]
+    xvalue.append(xendvalue)
+xmax=max(xvalue)
+print "最大的x为",xmax
+location=xvalue.index(xmax)
+print "xmax时发射角为",location,"度"
+cannonx=cannon(700,math.radians(location),0.1)
+cannonx.caculate()
+cannonx.show()
+
+yvalue=[0]
+yendvalue=0
+for k in range(89):
+    cann=cannon(700,math.radians(1+k),0.1)
+    cann.caculate()
+    yendvalue=cann.y[-1]
+    yvalue.append(yendvalue)
+ymax=max(yvalue)
+ymin=min(yvalue)
+print "最大的y为",ymax,"最小的y为",ymin
+locationymax=yvalue.index(ymax)
+locationymin=yvalue.index(ymin)
+print "ymax时的发射角为",locationymax,"度"
+print "ymin时的发射角为",locationymin,"度"
+print "轨迹图线如下："
+cannonymax=cannon(700,math.radians(locationymax),0.1)
+cannonymax.caculate()
+cannonymax.show()
+cannonymin=cannon(700,math.radians(locationymin),0.1)
+cannonymin.caculate()
+cannonymin.show()
+"""
 
