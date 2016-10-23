@@ -56,6 +56,7 @@ xmax=max(xvalue)
 print "最大的射程为",xmax
 location=xvalue.index(xmax)
 print "最佳的发射角为",location
+print "最佳轨迹图线如下："
 cannonbest=cannon(700,math.radians(location),0.1)
 cannonbest.caculate()
 cannonbest.show()
