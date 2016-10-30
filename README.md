@@ -9,7 +9,7 @@ homework of my computational physics course
 * [ ] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise04_Chapter-1-problem-1.5-The-decay-of-two-kinds-of-particles/Chapter%201%20problem%201.5:The%20decay%20of%20two%20kinds%20of%20particles.md)
 * [ ] [Exercise_05:Chapter 2 problem 2.9:Projectile motion:The trajectory of a cannon shell](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise05/ex05.md)
 * [ ] [Exercise_06:Chapter 2 problem 2.10:The cannon](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise06/ex06.md)
-* [ ] [Exercise_07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of the baseball]
+* [ ] [Exercise_07:Chapter 3 problem 3.13:Non-linear oscillator](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise07/ex07.md)
 * [ ] [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator]
 * [ ] [Exercise_09:Chapter 3 problem 3.16:Strange attractor]
 * [ ] [Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]
