@@ -18,11 +18,11 @@ class pendulum:
     def caculate(self):
         time=0        
         while(self.time[-1]<=200):
-            self.w1.append(self.w1[-1]-(self.lg*math.sin(self.ang1[-1])-self.q1*self.w1[-1]+self.f*math.sin(self.D*self.time[-1]))*self.dt)
-            angspeed1=self.w1[-1]-(self.lg*math.sin(self.ang1[-1])-self.q1*self.w1[-1]+self.f*math.sin(self.D*self.time[-1]))*self.dt
+            self.w1.append(self.w1[-1]-(self.lg*math.sin(self.ang1[-1])+self.q1*self.w1[-1]-self.f*math.sin(self.D*self.time[-1]))*self.dt)
+            angspeed1=self.w1[-1]-(self.lg*math.sin(self.ang1[-1])+self.q1*self.w1[-1]-self.f*math.sin(self.D*self.time[-1]))*self.dt
             self.ang1.append(self.ang1[-1]+angspeed1*self.dt)
-            self.w2.append(self.w2[-1]-(self.lg*math.sin(self.ang2[-1])-self.q1*self.w2[-1]+self.f*math.sin(self.D*self.time[-1]))*self.dt)            
-            angspeed2=self.w2[-1]-(self.lg*math.sin(self.ang2[-1])-self.q1*self.w2[-1]+self.f*math.sin(self.D*self.time[-1]))*self.dt
+            self.w2.append(self.w2[-1]-(self.lg*math.sin(self.ang2[-1])+self.q2*self.w2[-1]-self.f*math.sin(self.D*self.time[-1]))*self.dt)            
+            angspeed2=self.w2[-1]-(self.lg*math.sin(self.ang2[-1])+self.q2*self.w2[-1]-self.f*math.sin(self.D*self.time[-1]))*self.dt
             self.ang2.append((self.ang2[-1]+angspeed2*self.dt))
             self.dangle.append(math.log(math.fabs(self.ang1[-1]-self.ang2[-1])))
             if self.ang1[-1]>math.pi:
