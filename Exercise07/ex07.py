@@ -1,3 +1,49 @@
+#version1
+
+
+import pylab as pl
+import math
+class pendulum:
+    def __init__(self,forc=1.2,init_angle=0.2,footstep=0.04,init_w=0.):
+        self.ang=[init_angle]
+        self.w=[init_w]
+        self.dt=footstep
+        self.f=forc
+        self.time=[0]
+    def caculate(self):
+        g=9.8
+        l=9.8
+        q=0.5
+        time=0
+        omigaD=0.66666
+        for i in range(2000):
+            angspeed=self.w[i]-(g/l*math.sin(self.ang[i])+q*self.w[i]-self.f\
+            *math.sin(omigaD*self.time[i]))*self.dt
+            ang=self.ang[i]+angspeed*self.dt
+            if ang>math.pi:
+                ang-=2*math.pi
+            if ang<-math.pi:
+                ang+=2*math.pi
+            time=time+self.dt
+            self.w.append(angspeed)
+            self.ang.append(ang)
+            self.time.append(time)       
+    def show(self):
+        pl.plot(self.time,self.ang)
+        pl.title("The angle of the pendulums changes with time")
+        pl.xlabel("time")
+        pl.ylabel("angle")
+        pl.axis('equal')
+        pl.show()
+p=pendulum()
+p.caculate()
+p.show()
+
+
+
+#version2
+
+
 import pylab as pl
 import math
 class pendulum:
