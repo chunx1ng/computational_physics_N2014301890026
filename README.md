@@ -12,7 +12,7 @@ homework of my computational physics course
 * [ ] [Exercise_07:Chapter 3 problem 3.13:Non-linear oscillator](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise07/ex07.md)
 * [ ] [Exercise_08:Chapter 3 problem 3.18:Non-linear oscillator](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise08/ex08.md)
 * [ ] [Exercise_09:Chapter 3 problem 3.30:Stadium billiard problem](https://www.zybuluo.com/chunx1ng/note/503128)
-* [ ] [Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]
+* [ ] [Exercise_10:Chapter 4 problem 4.08](https://www.zybuluo.com/chunx1ng/note/581613)
 * [ ] [Exercise_11:Chapter 4 problem 4.11:The percession of Mercury]
 * [ ] [Exercise_12:Chapter 4 problem 4.18:The kirkwood gap]
 * [ ] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm]
