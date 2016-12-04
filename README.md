@@ -13,7 +13,7 @@ homework of my computational physics course
 * [ ] [Exercise_08:Chapter 3 problem 3.18:Non-linear oscillator](https://github.com/chunx1ng/computational_physics_N2014301890026/blob/master/Exercise08/ex08.md)
 * [ ] [Exercise_09:Chapter 3 problem 3.30:Stadium billiard problem](https://www.zybuluo.com/chunx1ng/note/503128)
 * [ ] [Exercise_10:Chapter 4 problem 4.08](https://www.zybuluo.com/chunx1ng/note/581613)
-* [ ] [Exercise_11:Chapter 4 problem 4.11:The percession of Mercury]
+* [ ] [Exercise_11:Chapter 4 problem 4.19:The motion of Hyperion](https://www.zybuluo.com/chunx1ng/note/589774)
 * [ ] [Exercise_12:Chapter 4 problem 4.18:The kirkwood gap]
 * [ ] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm]
 * [ ] [Exercise_14:Chapter 6 problem 6.15:The realistic string problem]
