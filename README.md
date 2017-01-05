@@ -15,7 +15,5 @@ homework of my computational physics course
 * [ ] [Exercise_10:Chapter 4 problem 4.08](https://www.zybuluo.com/chunx1ng/note/581613)
 * [ ] [Exercise_11:Chapter 4 problem 4.19:The motion of Hyperion](https://www.zybuluo.com/chunx1ng/note/589774)
 * [ ] [Exercise_12:Chapter 5 problem 5.4:Electric potentials and fields](https://www.zybuluo.com/chunx1ng/note/597802)
-* [ ] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm]
-* [ ] [Exercise_14:Chapter 6 problem 6.15:The realistic string problem]
-* [ ] [Final Project:用轨道能量分析Krikwood Gap的缝宽]
+* [ ] [期末作业:Phase transition and the Ising Model](https://www.zybuluo.com/chunx1ng/note/618811)
 
